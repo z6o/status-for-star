@@ -1,5 +1,5 @@
 # status
-*[1] Shares - {Fore.GREEN}Working
-*[2] Follower - {Fore.GREEN}Working
-*[3] Likes(Hearts) - {Fore.RED}Not working yet
-*[4] Views - {Fore.GREEN}Working
+*[1] Shares - Working
+*[2] Follower - Working
+*[3] Likes(Hearts) - Not working yet
+*[4] Views - Working
